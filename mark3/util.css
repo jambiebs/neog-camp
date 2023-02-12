@@ -1,0 +1,28 @@
+/* this is utility css */
+/* color-list */
+/*  
+    #537FE7 
+    #C0EEF2 
+    #181823 
+*/
+.bg1 {
+    background-color: #537FE7;
+}
+.bg2 {
+    background-color: #C0EEF2;
+}
+.bg3 {
+    background-color: #181823;
+}
+.fc1 {
+    color: #537FE7;
+}
+.fc2 {
+    color: #181823;
+}
+.fc3 {
+    color: #C0EEF2;
+}
+.fc {
+    color: #E9F8F9;
+}
