@@ -1,0 +1,22 @@
+{
+  "name": "neog-camp",
+  "version": "1.0.0",
+  "description": "neog-camp admission preparation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jambiebs/neog-camp.git"
+  },
+  "author": "Jam Al",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jambiebs/neog-camp/issues"
+  },
+  "homepage": "https://github.com/jambiebs/neog-camp#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
